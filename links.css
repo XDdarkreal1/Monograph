@@ -5,9 +5,14 @@
     padding-bottom: 20px;
 }
 .icon-link{
-    margin-top: auto;
+    margin-top: 20px;
 }
 .icon-img{
     height: 40px;
     width: 40px;
+}
+
+.issue-link{
+    text-decoration: none;
+    color: black;
 }

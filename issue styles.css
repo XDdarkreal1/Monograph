@@ -1,6 +1,6 @@
 .issue-list{
     display: grid;
-    grid-template-columns: repeat(2, 400px);
+    grid-template-columns: repeat(3, 400px);
     justify-content: space-evenly;
     align-content: space-evenly;
     place-items: center;

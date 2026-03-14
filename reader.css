@@ -1,0 +1,9 @@
+body{
+    margin:0;
+}
+
+.issue-pages img{
+    width:100%;
+    height:auto;
+    display:block;
+}
